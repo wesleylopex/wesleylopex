@@ -10,7 +10,6 @@
 - 🎓 Cursando Ciência da Computação.
 - 💡 Você pode acompanhar minha jornada e projetos aqui no GitHub!
 
-  
 ## 💻 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php)](https://skillicons.dev)
 
@@ -19,8 +18,6 @@
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,insomnia)](https://skillicons.dev)
-
-
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=x.wesleylopes@gmail.com target="_blank" title="Gmail">
