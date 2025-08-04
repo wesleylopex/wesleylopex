@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou Wesley Lopes!
 <p align="left">
-  Atuo na área de desenvolvimento full stack desde 2019. Atualmente, estudo Ciência da Computação na Universidade Federal de Santa Maria. Constantemente estudando novas tecnologias e procurando me atualizar no mercado. Tenho como foco ReactJS, NextJS e nodeJS.
+  Atuo como desenvolvedor full stack desde 2019. Atualmente, estudo Ciência da Computação na Universidade Federal de Santa Maria. Constantemente estudando novas tecnologias e procurando me atualizar no mercado. Tenho como foco ReactJS, NextJS e nodeJS.
 </p>
 
 ## Sobre mim
