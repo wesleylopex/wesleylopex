@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,npm,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nestjs,mysql,postgresql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,insomnia)](https://skillicons.dev)
